@@ -26,3 +26,34 @@ pip install opencv-python
 
 安装完上面两项就完成啦！接着就可以用python运行**Project_demo.py**文件。
 
+## UI界面
+
+![1705125195100](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\1705125195100.png)
+
+### 功能预览
+
+![1705125216896](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\1705125216896.png)
+
+### 图像滤波
+
+图像滤波（中值滤波、高斯滤波、Sobel算子、Laplace算子）
+
+![1705125256494](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\1705125256494.png)
+
+### 图像分割
+
+图像分割SLIC
+
+![1705125288842](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\1705125288842.png)
+
+### 图像融合
+
+图像融合（IHSF、GIHSF、AIHSF、IAIHSF）
+
+![1705125309651](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\1705125309651.png)
+
+### 工具栏
+
+灰度图转换、直方图均衡化
+
+![1705125324341](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\1705125324341.png)
