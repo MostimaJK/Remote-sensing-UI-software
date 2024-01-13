@@ -28,32 +28,32 @@ pip install opencv-python
 
 ## UI界面
 
-![1705125195100](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\1705125195100.png)
+![1705125195100](Photos\resource\Demo\UI界面.png)
 
 ### 功能预览
 
-![1705125216896](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\1705125216896.png)
+![功能预览](Photos\resource\Demo\功能预览.png)
 
 ### 图像滤波
 
 图像滤波（中值滤波、高斯滤波、Sobel算子、Laplace算子）
 
-![1705125256494](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\1705125256494.png)
+![图像滤波](Photos\resource\Demo\图像滤波.png)
 
 ### 图像分割
 
 图像分割SLIC
 
-![1705125288842](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\1705125288842.png)
+![图像分割](Photos\resource\Demo\图像分割.png)
 
 ### 图像融合
 
 图像融合（IHSF、GIHSF、AIHSF、IAIHSF）
 
-![1705125309651](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\1705125309651.png)
+![图像融合](Photos\resource\Demo\图像融合.png)
 
 ### 工具栏
 
 灰度图转换、直方图均衡化
 
-![1705125324341](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\1705125324341.png)
+![工具箱](Photos\resource\Demo\工具箱.png)
