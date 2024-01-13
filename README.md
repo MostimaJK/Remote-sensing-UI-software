@@ -1,6 +1,6 @@
 # Remote sensing UI software
 
-本项目为遥感原理与图像处理期末作业，小组成员：娄雨轩、魏子杰、柳世钢。
+本项目为深圳大学遥感原理与图像处理期末作业。
 
 libGD为我们小组用C++自行编写并编译成Python的自定义库，UI设计部分我们采用Python-Fluent框架进行创作。
 
